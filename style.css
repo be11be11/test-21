@@ -1,0 +1,11 @@
+div.祖 {border:2px solid pink; width: 100%; display:flex; flex-flow: column; }
+div.親1 {border:2px solid aqua; width: 99%; height: 500px; position: relative; }
+div.親2 {border:2px solid green; width: 99%; height: 500px; }
+div.親3 {border:2px solid orange; width: 99%; height: 500px; position: relative; }
+
+div.footer 1 img {border:2px solid blue; width: 75%;display: block;  margin-left: 7%; }
+ 
+div.footer 1 {border:2px solid lime; width: 78%; height: 49%; box-sizing: border-box;  margin-left: 1%; }
+div.footer 2 {border:2px solid pink; width: 78%; height: 49%; box-sizing: border-box; margin-left: 22%; }  
+
+img.footer {border:2px solid green; width: 40%; box-sizing: border-box; display: block; margin-top: -75%; margin-left: 60%; }
